@@ -1,5 +1,6 @@
 # CVPro-Login-System
-A simple  login system with license key using C#
+A simple C# login system with license key \
+using motherboard uuid verify and date diff function to create license key
 
 # Features
 - Demo Version
